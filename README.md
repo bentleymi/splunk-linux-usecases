@@ -1,6 +1,6 @@
 # Splunk Linux Use Cases — App Recipes That Ship Together
 
-The 20 [Linux monitoring add-ons in this collection](https://splunkbase.splunk.com/p/add-ons/) do their best work in **combination**. Each add-on is a specialist; each use case below is a crew of specialists pointing at one real-world problem, with ready-to-paste searches on live data.
+The 20 [Linux monitoring add-ons in this collection](https://github.com/bentleymi/splunk-linux-usecases) do their best work in **combination**. Each add-on is a specialist; each use case below is a crew of specialists pointing at one real-world problem, with ready-to-paste searches on live data.
 
 Pick a scenario, install the listed apps, paste the searches into a dashboard, done.
 
